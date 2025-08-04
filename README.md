@@ -21,3 +21,26 @@ Perform exploratory analysis and preprocessing (null handling, encoding, scaling
 
 ## Tools Used
 Python, Pandas, NumPy, Seaborn, Scikit-learn, Matplotlib
+
+
+## 🚀 How to Use the Code
+
+1. **Open the notebook in Google Colab**  
+   - Upload the `Titanic-Preprocessing.ipynb` file to [Google Colab](https://colab.research.google.com/)
+
+2. **Attach the dataset**  
+   - The dataset file `Titanic-Dataset.csv` is already included in this repository  
+   - Upload it when prompted by the notebook (using the file picker in Colab)
+
+3. **Run all cells**  
+   - The notebook will:
+     - Load the data
+     - Handle missing values
+     - Encode categorical variables
+     - Scale numerical features
+     - Visualize and optionally remove outliers
+     - Save the cleaned dataset as `titanic_cleaned.csv`
+
+4. **Download cleaned data (optional)**  
+   - The cleaned file will be made available for download at the end
+
