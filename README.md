@@ -1,4 +1,3 @@
-# internship-task1--data_preprocessing
 📌 Note:
 This task is part of a structured internship to reinforce basic ML skills.
 It’s not meant to reflect my current skill level or portfolio quality.
